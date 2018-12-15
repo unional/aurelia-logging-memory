@@ -70,7 +70,7 @@
   },
   "devDependencies": {
     "aurelia-logging": "^1.4.0",
-    "ava": "^0.25.0",
+    "ava": "^1.0.1",
     "dependency-check": "^3.1.0",
     "eslint": "^5.0.0",
     "eslint-plugin-harmony": "^1.0.3",
